@@ -1,0 +1,15 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.AssemblyInfoInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.AssemblyInfo.cs
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\bin\Debug\net6.0\Benutzer_zahl.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\bin\Debug\net6.0\Benutzer_zahl.deps.json
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\bin\Debug\net6.0\Benutzer_zahl.runtimeconfig.json
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\bin\Debug\net6.0\Benutzer_zahl.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\bin\Debug\net6.0\Benutzer_zahl.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\refint\Benutzer_zahl.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\Benutzer_zahl.genruntimeconfig.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Benutzer_zahl\Benutzer_zahl\Benutzer_zahl\obj\Debug\net6.0\ref\Benutzer_zahl.dll

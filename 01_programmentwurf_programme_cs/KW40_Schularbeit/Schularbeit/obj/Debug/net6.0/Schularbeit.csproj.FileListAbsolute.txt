@@ -1,0 +1,15 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\bin\Debug\net6.0\Schularbeit.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\bin\Debug\net6.0\Schularbeit.deps.json
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\bin\Debug\net6.0\Schularbeit.runtimeconfig.json
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\bin\Debug\net6.0\Schularbeit.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\bin\Debug\net6.0\Schularbeit.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.AssemblyInfoInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.AssemblyInfo.cs
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\refint\Schularbeit.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\Schularbeit.genruntimeconfig.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Schularbeit\Schularbeit\Schularbeit\obj\Debug\net6.0\ref\Schularbeit.dll

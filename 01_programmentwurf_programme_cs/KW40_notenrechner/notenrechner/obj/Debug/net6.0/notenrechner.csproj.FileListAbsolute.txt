@@ -1,0 +1,15 @@
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\bin\Debug\net6.0\notenrechner.exe
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\bin\Debug\net6.0\notenrechner.deps.json
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\bin\Debug\net6.0\notenrechner.runtimeconfig.json
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\bin\Debug\net6.0\notenrechner.dll
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\bin\Debug\net6.0\notenrechner.pdb
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.dll
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\refint\notenrechner.dll
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.pdb
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\notenrechner.genruntimeconfig.cache
+C:\Users\Adrian\source\repos\notenrechner\notenrechner\obj\Debug\net6.0\ref\notenrechner.dll

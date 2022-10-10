@@ -1,0 +1,8 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\bin\Debug\KW40_HalloWelt.exe.config
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\bin\Debug\KW40_HalloWelt.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\bin\Debug\KW40_HalloWelt.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\obj\Debug\KW40_HalloWelt.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\obj\Debug\KW40_HalloWelt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\obj\Debug\KW40_HalloWelt.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\obj\Debug\KW40_HalloWelt.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW40_HalloWelt\KW40_HalloWelt\obj\Debug\KW40_HalloWelt.pdb

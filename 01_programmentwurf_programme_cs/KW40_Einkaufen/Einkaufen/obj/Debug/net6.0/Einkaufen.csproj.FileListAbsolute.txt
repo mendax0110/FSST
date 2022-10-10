@@ -1,0 +1,15 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\bin\Debug\net6.0\Einkaufen.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\bin\Debug\net6.0\Einkaufen.deps.json
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\bin\Debug\net6.0\Einkaufen.runtimeconfig.json
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\bin\Debug\net6.0\Einkaufen.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\bin\Debug\net6.0\Einkaufen.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.AssemblyInfoInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.AssemblyInfo.cs
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\refint\Einkaufen.dll
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\Einkaufen.genruntimeconfig.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\Einkaufen\Einkaufen\Einkaufen\obj\Debug\net6.0\ref\Einkaufen.dll
