@@ -13,9 +13,12 @@ namespace KW40_HalloWelt
         static void Main(string[] args)
         {
             string name;
+            // print hello world
             Console.WriteLine("Hello World!");
+            // ask for name
             Console.WriteLine("What is your name?");
             name = Console.ReadLine();
+            // print hello *name*
             Console.WriteLine("Hello " + name);
             Console.ReadKey();
         }

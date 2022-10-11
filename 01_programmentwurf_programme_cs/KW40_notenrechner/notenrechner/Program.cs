@@ -7,11 +7,14 @@ namespace notenrechner
     {
         static void Main(string[] args)
         {
+            // zahl einlesen
             Console.WriteLine("Geben sie eine Zahl ein");
             int zahl = Convert.ToInt32(Console.ReadLine());
             int i = 0;
+
             while (i <= 85)
             {
+                // benutzer fragen ob er erneut eine zahl eingeben möchte
                 Console.WriteLine("Wollen sie eine weitere Zahl eingeben? (j/n)");
                 string eingabe = Console.ReadLine();
                 if (eingabe == "j")
