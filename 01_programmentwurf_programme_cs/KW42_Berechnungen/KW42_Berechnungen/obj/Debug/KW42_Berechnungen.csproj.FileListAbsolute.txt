@@ -1,0 +1,8 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\bin\Debug\KW42_Berechnungen.exe.config
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\bin\Debug\KW42_Berechnungen.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\bin\Debug\KW42_Berechnungen.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\obj\Debug\KW42_Berechnungen.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\obj\Debug\KW42_Berechnungen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\obj\Debug\KW42_Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\obj\Debug\KW42_Berechnungen.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW40_HalloWelt\KW42_Berechnungen\KW42_Berechnungen\obj\Debug\KW42_Berechnungen.pdb

@@ -1,0 +1,8 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\bin\Debug\KW42_Ausgabe_Ertrag.exe.config
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\bin\Debug\KW42_Ausgabe_Ertrag.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\bin\Debug\KW42_Ausgabe_Ertrag.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\obj\Debug\KW42_Ausgabe_Ertrag.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\obj\Debug\KW42_Ausgabe_Ertrag.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\obj\Debug\KW42_Ausgabe_Ertrag.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\obj\Debug\KW42_Ausgabe_Ertrag.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW42_Ausgabe_Ertrag\KW42_Ausgabe_Ertrag\obj\Debug\KW42_Ausgabe_Ertrag.pdb
