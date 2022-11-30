@@ -108,6 +108,7 @@ namespace KW47_Berechnungen
                     break;
             }
 
+            // check if the user wants to continue or not
             Console.ReadLine();
 
             // if the user wants to do another calculation, the program will start again.
