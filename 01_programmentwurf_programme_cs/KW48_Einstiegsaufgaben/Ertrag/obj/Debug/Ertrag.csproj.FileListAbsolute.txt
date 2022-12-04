@@ -1,0 +1,8 @@
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\bin\Debug\Ertrag.exe.config
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\bin\Debug\Ertrag.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\bin\Debug\Ertrag.pdb
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\obj\Debug\Ertrag.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\obj\Debug\Ertrag.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\obj\Debug\Ertrag.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\obj\Debug\Ertrag.exe
+C:\Users\Adrian\OneDrive - HTL-Rankweil\HTL-Aufbaulehrgang\2.Semester\Fächer\FSST\01_programmentwurf_programme_cs\KW48_Einstiegsaufgaben\Ertrag\obj\Debug\Ertrag.pdb
